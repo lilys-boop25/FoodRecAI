@@ -7,7 +7,7 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parents[3]
 INPUT_FILE = PROJECT_ROOT / "data" / "raw_data" / "reviews_with_restaurant_id.jsonl"
-OUTPUT_FILE = PROJECT_ROOT / "data" / "data_for_sentiment_analysis" / "reviews_clean.jsonl"
+OUTPUT_FILE = PROJECT_ROOT / "data" / "data_for_sentiment_analysis" / "reviews_clean_2.jsonl"
 RESULT_DIR = Path(__file__).resolve().parent / "result_eval"
 RESULT_DIR.mkdir(exist_ok=True)
 
@@ -158,7 +158,7 @@ short_reviews.to_csv(RESULT_DIR / "short_reviews.csv", index=False, encoding="ut
 print("\n===== 4. RATING-CONTENT MISMATCH =====")
 mismatch_mask = (
     ((df["rating"] >= 8.0) & (df["keyword_label"] == "negative")) |
-    ((df["rating"] < 6.0) & (df["keyword_label"] == "positive"))
+    ((df["rating"] < 6.0) & (df["rating"] >= 5.0) & (df["keyword_label"] == "positive"))
 )
 mismatch_df = df[mismatch_mask].copy()
 

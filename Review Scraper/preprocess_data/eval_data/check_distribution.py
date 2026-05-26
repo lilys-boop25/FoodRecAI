@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 ratings = []
 
-with open("data/data_for_sentiment_analysis/reviews_clean.jsonl", "r", encoding="utf-8") as f:
+with open("data/raw_data/reviews_with_restaurant_id.jsonl", "r", encoding="utf-8") as f:
     for line in f:
         data = json.loads(line)
         if data["rating"] is None:
