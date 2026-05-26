@@ -1,0 +1,343 @@
+{
+    "PictureModel": {
+        "Id": 0,
+        "Size": null,
+        "ImageUrl": "https://down-vn.img.susercontent.com/vn-11134513-7r98o-lsts5a95pl8k13@resize_ss576x330",
+        "FullSizeImageUrl": "https://down-vn.img.susercontent.com/vn-11134513-7r98o-lsts5a95pl8k13",
+        "Title": "Trà Sữa 172 - Triệu Việt Vương",
+        "AlternateText": "Trà Sữa 172 - Triệu Việt Vương",
+        "TotalLikes": 0,
+        "OwnerFullName": null,
+        "OwnerUserName": null,
+        "OwnerID": null,
+        "IsExisted": false,
+        "Group": 1,
+        "CreatedOn": null,
+        "MediaType": 0,
+        "Url": null,
+        "BgColor": null,
+        "PhotoDetailUrl": null
+    },
+    "BackgroundImageUrl": null,
+    "HasValidContract": false,
+    "TableNowApiEnable": true,
+    "RestaurantID": 77602,
+    "Name": "Trà Sữa 172 - Triệu Việt Vương",
+    "Name_EN": null,
+    "NameUrl": null,
+    "NameUrl_EN": null,
+    "Address": "172 Triệu Việt Vương",
+    "CityID": 218,
+    "City": "Hà Nội",
+    "DistrictID": 24,
+    "District": "Quận Hai Bà Trưng",
+    "AreaID": 175,
+    "Area": "Vincom",
+    "ImageURL": null,
+    "Phone": null,
+    "Website": "",
+    "PriceMin": 20000.0,
+    "PriceMax": 50000.0,
+    "Latitude": 21.0123015,
+    "Longtitude": 105.850372,
+    "IsActive": false,
+    "IsDelete": false,
+    "TotalReview": 54,
+    "TotalView": 14993,
+    "TotalViewFormat": "15.0K",
+    "RestaurantStatus": 2,
+    "MetaTitle": "Trà Sữa 172 - Triệu Việt Vương",
+    "MetaKeywords": "trà sữa, trà sữa trân châu, quán trà sữa, trà sữa triệu việt vương, trà sữa 172, trà sữa 172 triệu việt vương",
+    "MetaKeywords_EN": null,
+    "MetaDescription": "Quán nhỏ phục vụ cho khách mang về, quán còn có bàn ngồi ngoài trời thoáng mát rất phù hợp với các bạn trẻ. Menu đa dạng nhiều loại trà sữa thơm ngon.",
+    "MetaDescription_EN": null,
+    "BackgroundUrl": null,
+    "SpecialDesc": null,
+    "TotalFavourite": 62,
+    "TotalWanted": 95,
+    "TotalPictures": 152,
+    "DistrictUrlRewiteName": "quan-hai-ba-trung",
+    "AreaUrlRewiteName": "vincom",
+    "MainCategoryRewriteName": "an-vat-via-he",
+    "TotalCheckedIn": 12,
+    "AvgPointList": [
+        {
+            "Label": "Chất lượng",
+            "Point": 7.48,
+            "DisplayOrder": 3
+        },
+        {
+            "Label": "Giá cả",
+            "Point": 7.41,
+            "DisplayOrder": 2
+        },
+        {
+            "Label": "Vị trí",
+            "Point": 7.2,
+            "DisplayOrder": 1
+        },
+        {
+            "Label": "Phục vụ",
+            "Point": 7.09,
+            "DisplayOrder": 4
+        },
+        {
+            "Label": "Không gian",
+            "Point": 6.43,
+            "DisplayOrder": 5
+        }
+    ],
+    "MicrositeUrl": "/ha-noi/tra-sua-172-trieu-viet-vuong",
+    "RestaurantUrl": "ha-noi/tra-sua-172-trieu-viet-vuong",
+    "Cuisines": [
+        {
+            "UrlRewriteName": "viet-nam",
+            "Name": "Món Việt",
+            "NameEn": "Vietnam",
+            "DisplayOrder": 0,
+            "Flag": 0,
+            "ParentID": 0,
+            "Icon": "foody-01-vietnam-635950402447733778.png",
+            "Id": 1
+        }
+    ],
+    "PointConfig": {
+        "Tier": 3,
+        "Description": "Medium Brands",
+        "ReviewMaxPoints": 3.0,
+        "PhotoMaxPoints": 1.0,
+        "PhotoRatioBaseReview": 1.0,
+        "CommentMaxPoints": 0.25,
+        "CommentRatioBaseReview": 1.0,
+        "LikeMaxPoints": 0.0,
+        "LikeRatioBaseReview": 1.0,
+        "VideoMaxPoints": 5.0,
+        "Id": 3
+    },
+    "CssSuffix": "",
+    "LanguageId": 1,
+    "BrandUrlRewriteName": null,
+    "BrandName": null,
+    "BrandTotalRestaurants": 265061,
+    "TotalLists": 310,
+    "IsBooking": false,
+    "IsSafety": false,
+    "ReservationId": null,
+    "ResUrlRewrite": "tra-sua-172-trieu-viet-vuong",
+    "HasMemberCard": false,
+    "MemberCardPolicy": null,
+    "MinDiscount": null,
+    "MaxDiscount": null,
+    "TimeRanges": [
+        {
+            "StartTime24h": "08:30",
+            "EndTime24h": "23:00",
+            "StartTime": "08:30",
+            "EndTime": "11:00 PM",
+            "Title": "",
+            "RestaurantID": 77602,
+            "RangeID": 0,
+            "IsDayOff": false,
+            "CustomDate": null,
+            "Id": 1465296
+        }
+    ],
+    "BookingDiscount": 0,
+    "MasterCategoryId": 1,
+    "LstDeliveryService": [],
+    "IsToolPremium": false,
+    "MobileImageUrl": "https://down-vn.img.susercontent.com/vn-11134513-7r98o-lsts5a95pl8k13@resize_ss640x400",
+    "LstTargetAudience": [
+        {
+            "Id": 1,
+            "Name": "Sinh viên",
+            "Name_En": "Student",
+            "DisplayOrder": 1,
+            "Published": true
+        },
+        {
+            "Id": 2,
+            "Name": "Cặp đôi",
+            "Name_En": "Couple",
+            "DisplayOrder": 2,
+            "Published": true
+        },
+        {
+            "Id": 4,
+            "Name": "Nhóm hội",
+            "Name_En": "Group",
+            "DisplayOrder": 4,
+            "Published": true
+        }
+    ],
+    "TotalSavedListsCurrentUser": 0,
+    "HasThitCayCategory": false,
+    "IsDisableReview": false,
+    "LstCategory": [
+        {
+            "AsciiName": "an vat via he",
+            "UrlRewriteName": "an-vat-via-he",
+            "NameEn": "Street food",
+            "Icon": "foody-11-anvat-635950388395266822.png",
+            "IconClass": "ico_anvat",
+            "CategoryGroupKey": "food",
+            "RestaurantCount": 0,
+            "Name": "Ăn vặt/vỉa hè",
+            "Id": 11
+        },
+        {
+            "AsciiName": "cafe dessert",
+            "UrlRewriteName": "cafe",
+            "NameEn": "Coffee/Dessert",
+            "Icon": "foody-02-kedai kopi-635950389484472462.png",
+            "IconClass": "ico_cafe",
+            "CategoryGroupKey": "food",
+            "RestaurantCount": 0,
+            "Name": "Café/Dessert",
+            "Id": 2
+        }
+    ],
+    "IsInactive": true,
+    "IsAlreadyCreated": false,
+    "IsDeliveryNow": true,
+    "StickerStatus": 0,
+    "Tip": "",
+    "MobileTip": null,
+    "ListBankCards": [],
+    "SpecialAttr": 0,
+    "AvgRating": 7.122,
+    "Services": [],
+    "Location": "ha-noi",
+    "ReviewOption": 0,
+    "SyncSheisId": null,
+    "ECardInfoModel": {
+        "MemberCardLevels": {
+            "Name": null,
+            "Note": null,
+            "Levers": [],
+            "StartDate": null,
+            "EndDate": null
+        },
+        "RestaurantCardLevels": [
+            {
+                "Name": "Standard",
+                "Content": "Không áp dụng",
+                "DiscountPercent": 0,
+                "ImgUrl": "/style/images/icons/ecard/Standard.png"
+            },
+            {
+                "Name": "Gold",
+                "Content": "Không áp dụng",
+                "DiscountPercent": 0,
+                "ImgUrl": "/style/images/icons/ecard/Gold.png"
+            },
+            {
+                "Name": "Premier",
+                "Content": "Không áp dụng",
+                "DiscountPercent": 0,
+                "ImgUrl": "/style/images/icons/ecard/Premier.png"
+            }
+        ]
+    },
+    "ListECoupons": [],
+    "TableNowUrl": "https://shopeefood.vn/ha-noi/table/tra-sua-172-trieu-viet-vuong",
+    "AvatarVideo": {
+        "Id": 0,
+        "Title": null,
+        "TitleUrl": null,
+        "Description": null,
+        "Source": null,
+        "Avatar": null,
+        "Type": 0,
+        "SourceType": null,
+        "Width": null,
+        "Height": null,
+        "AutoPlay": null,
+        "Url": null,
+        "UrlEmbed": null,
+        "IsFeatured": false,
+        "Length": null,
+        "IsWatched": false,
+        "RestaurantImgUrl": null,
+        "IsMuted": false
+    },
+    "OpeningTime": [
+        {
+            "Id": 335706,
+            "RestaurantId": 77602,
+            "DayOfWeek": 6,
+            "CustomDate": null,
+            "TimeOpen": {
+                "Hours": 8,
+                "Minutes": 30,
+                "Seconds": 0,
+                "Milliseconds": 0,
+                "Ticks": 306000000000,
+                "Days": 0,
+                "TotalDays": 0.35416666666666663,
+                "TotalHours": 8.5,
+                "TotalMilliseconds": 30600000,
+                "TotalMinutes": 510,
+                "TotalSeconds": 30600
+            },
+            "TimeClose": {
+                "Hours": 23,
+                "Minutes": 0,
+                "Seconds": 0,
+                "Milliseconds": 0,
+                "Ticks": 828000000000,
+                "Days": 0,
+                "TotalDays": 0.9583333333333333,
+                "TotalHours": 23,
+                "TotalMilliseconds": 82800000,
+                "TotalMinutes": 1380,
+                "TotalSeconds": 82800
+            },
+            "IsDayOff": false,
+            "DisplayOrder": 0,
+            "TimeOpenHour": 0,
+            "TimeOpenMinute": 0,
+            "TimeCloseHour": 0,
+            "TimeCloseMinute": 0,
+            "DayOfWeekName": null,
+            "Title": "",
+            "TitleEn": null
+        }
+    ],
+    "Floor": {
+        "Id": 0,
+        "Code": null,
+        "Name": null,
+        "NameEn": null,
+        "Avatar": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwwm6n8yj1sr5d@resize_w50",
+        "Color": null,
+        "Description": null,
+        "DescriptionEn": null
+    },
+    "ShortUrlCode": "",
+    "RestaurantCenter": {
+        "Id": 0,
+        "UrlRewriteName": null,
+        "Location": null,
+        "Url": null
+    },
+    "AccessGuide": "Gần ngã ba Triệu Việt Vương - Thái Phiên",
+    "Properties": [],
+    "Wifi": [
+        {
+            "Id": 5727,
+            "RestaurantId": 77602,
+            "Name": "Tra Sua 172",
+            "Password": "trasua172",
+            "CreatedOn": "/Date(1440159762923)/",
+            "UserId": 870425,
+            "UserName": "0909590548",
+            "FirstName": null,
+            "LastName": null
+        }
+    ],
+    "TotalDishes": 47,
+    "IsVerifiedMap": true,
+    "IsSaved": false,
+    "DeliveryId": 1845
+}

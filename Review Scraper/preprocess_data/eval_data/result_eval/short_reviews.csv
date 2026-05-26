@@ -1,0 +1,323 @@
+﻿line,restaurant_id,rating,title,content,text,text_norm,word_count,rating_label,keyword_label,has_ad_keyword,text_repeat_count
+190,mi-cay-seoul,8.0,,,None None,none none,2,positive,unknown,False,7
+785,tra-sua-bobapop-dao-tan,7.0,Bobapop,🌸,Bobapop 🌸,bobapop,1,neutral,unknown,False,1
+906,gong-cha-tra-ca-phe-giang-vo,10.0,Good,🌼🌼,Good 🌼🌼,good,1,positive,unknown,False,1
+1339,com-suon-cay-himc-24-ngo-318-de-la-thanh,10.0,Ngonn,Tuyệt vời,Ngonn Tuyệt vời,ngonn tuyệt vời,3,positive,positive,False,3
+1349,com-suon-cay-himc-24-ngo-318-de-la-thanh,10.0,Ngom,Khó cưỡng,Ngom Khó cưỡng,ngom khó cưỡng,3,positive,unknown,False,1
+1431,quan-quan-bun-bo-gio-heo,1.0,:(,Kbh ăn nữa,:( Kbh ăn nữa,kbh ăn nữa,3,negative,unknown,False,1
+2145,ga-ran-va-mi-y-jollibee-co-linh,6.8,Jollibee,🌸 Vị trí,Jollibee 🌸 Vị trí,jollibee  vị trí,3,neutral,unknown,False,1
+2308,bangkok-thai-cuisine-restaurant-giang-vo,7.0,Bangkok,🌸 Vị trí:,Bangkok 🌸 Vị trí:,bangkok  vị trí,3,neutral,positive,False,1
+2922,ga-ran-burger-lotteria-minh-khai,10.0,Lotteria -***,Very good,Lotteria -*** Very good,lotteria  very good,3,positive,unknown,False,1
+4022,nem-chua-ran-ngo-tam-thuong,10.0,Ngonn,Tuyệt vời,Ngonn Tuyệt vời,ngonn tuyệt vời,3,positive,positive,False,3
+4042,nem-chua-ran-ngo-tam-thuong,10.0,Ngonn,Quán tuyệt,Ngonn Quán tuyệt,ngonn quán tuyệt,3,positive,positive,False,1
+5006,xoi-che-banh-troi,10.0,Gon,NN,Gon NN,gon nn,2,positive,unknown,False,1
+5655,bun-ngan-nhan-ngo-trung-yen,1.0,Kém,Kém,Kém Kém,kém kém,2,negative,negative,False,1
+6955,kem-xoi-che-thai-lan-giang-vo,5.4,"Chè, kem",Tuyệt,"Chè, kem Tuyệt",chè kem tuyệt,3,negative,positive,False,1
+7248,tuyet-bun-cha-34,6.6,タイ湖近くのブンチャー,つくねが美味しい！揚げ春巻きが一本からあるのも嬉しい！食べ応えあり。,タイ湖近くのブンチャー つくねが美味しい！揚げ春巻きが一本からあるのも嬉しい！食べ応えあり。,タイ湖近くのブンチャー つくねが美味しい揚げ春巻きが一本からあるのも嬉しい食べ応えあり,2,neutral,unknown,False,1
+7459,luon-nieu-68,1.0,Dở,Dở tệ.,Dở Dở tệ.,dở dở tệ,3,negative,negative,False,1
+9074,bun-suon-chua-so-63-xa-dan,6.0,Tv,Tv,Tv Tv,tv tv,2,neutral,unknown,False,1
+9576,banh-da-tron-bun-rieu-nguyen-thi-dinh,5.4,Bún nước,Ngon❤️,Bún nước Ngon❤️,bún nước ngon,3,negative,positive,False,1
+9595,pizza-4p-s-pizza-kieu-nhat-phan-ke-binh,5.0,Ngon,Ngon,Ngon Ngon,ngon ngon,2,negative,positive,False,19
+9619,pizza-4p-s-pizza-kieu-nhat-phan-ke-binh,7.4,4p,🌸 Vị trí:,4p 🌸 Vị trí:,4p  vị trí,3,neutral,unknown,False,1
+9778,kampong-com-ga-hai-nam-107-lo-duc,7.2,Kampong,🌸 Vị trí:,Kampong 🌸 Vị trí:,kampong  vị trí,3,neutral,unknown,False,1
+9870,pho-suong,7.0,Phở Sướng,Sướng...,Phở Sướng Sướng...,phở sướng sướng,3,neutral,unknown,False,1
+10900,de-am-chay-so-5-trung-hoa,10.0,Ngon,Ngon lắm,Ngon Ngon lắm,ngon ngon lắm,3,positive,positive,False,3
+10964,de-am-chay-so-5-trung-hoa,10.0,Ngon,Tuyệt vời,Ngon Tuyệt vời,ngon tuyệt vời,3,positive,positive,False,3
+11119,banh-mi-25-hang-ca,7.8,安くて美味い,"他店と比較して安い。チキンが20,000vndとお値打ち。","安くて美味い 他店と比較して安い。チキンが20,000vndとお値打ち。",安くて美味い 他店と比較して安いチキンが20000vndとお値打ち,2,neutral,unknown,False,1
+11969,mit-mat-oc-ngon-hai-phong,6.4,Ốc,🌸 Vị trí:,Ốc 🌸 Vị trí:,ốc  vị trí,3,neutral,unknown,False,1
+12271,hey-bro-buger-pizza-spaghetti-fast-food,10.0,Burger,Good,Burger Good,burger good,2,positive,unknown,False,1
+13313,ga-ran-burger-lotteria-lotte-center,5.0,Tot,Tuyệt vời,Tot Tuyệt vời,tot tuyệt vời,3,negative,positive,False,1
+13315,ga-ran-burger-lotteria-lotte-center,10.0,Tôt,Tôt,Tôt Tôt,tôt tôt,2,positive,unknown,False,2
+13641,bo-nhung-dam-555,10.0,Ok,Ngon,Ok Ngon,ok ngon,2,positive,positive,False,1
+13667,bo-nhung-dam-555,5.0,Ngon,Ngon,Ngon Ngon,ngon ngon,2,negative,positive,False,19
+13681,bo-nhung-dam-555,6.0,Tốt,Ngon,Tốt Ngon,tốt ngon,2,neutral,positive,False,8
+14850,the-alley-tra-sua-dai-loan-hang-bai,1.0,Badd,Quán chán,Badd Quán chán,badd quán chán,3,negative,negative,False,1
+15504,tonkotsu-ramen-mi-tuoi-truyen-thong-nhat-ban,10.0,Good,Ngonnnnnnnnnnnnnnnnnnnnnnnnnnnn,Good Ngonnnnnnnnnnnnnnnnnnnnnnnnnnnn,good ngonnnnnnnnnnnnnnnnnnnnnnnnnnnn,2,positive,positive,False,1
+18406,yu-tang-tra-sua-my-dai-loan-chua-lang,7.2,Yutang,🌸,Yutang 🌸,yutang,1,neutral,unknown,False,1
+19632,pho-xao-phu-my-bat-dan,7.0,焼きそば　お肉がジューシー,お肉の餡が掛かった焼きそば。とても美味しくリピートしたい。野菜も新鮮。,焼きそば　お肉がジューシー お肉の餡が掛かった焼きそば。とても美味しくリピートしたい。野菜も新鮮。,焼きそば お肉がジューシー お肉の餡が掛かった焼きそばとても美味しくリピートしたい野菜も新鮮,3,neutral,unknown,False,1
+21272,grill-63-lotte-hotels-resorts-hanoi,5.0,Quá xịn,⭐️⭐️⭐️⭐️⭐️,Quá xịn ⭐️⭐️⭐️⭐️⭐️,quá xịn,2,negative,unknown,False,1
+21551,uu-dam-chay,7.2,Ưu đàm,🌸,Ưu đàm 🌸,ưu đàm,2,neutral,unknown,False,1
+24668,tuan-minh-pho-ga-bun-thang,8.0,Tuyệt vời,Ngon,Tuyệt vời Ngon,tuyệt vời ngon,3,positive,positive,False,1
+26501,bun-cha-trang-huy,8.2,Ngon,Ngon,Ngon Ngon,ngon ngon,2,positive,positive,False,19
+26712,pho-ly-quoc-su-c20-nguyen-quy-duc,10.0,hedjdjdudb,ydhdjdjdjdj,hedjdjdudb ydhdjdjdjdj,hedjdjdudb ydhdjdjdjdj,2,positive,unknown,False,1
+27489,sen-tay-ho-lac-long-quan,10.0,Tốt,Rất tốt,Tốt Rất tốt,tốt rất tốt,3,positive,positive,False,5
+27681,banh-mi-v-doi-can,5.0,Aa,Kk,Aa Kk,aa kk,2,negative,unknown,False,1
+28359,bep-kay-com-van-phong-online,1.0,Ghê quá,Ọe,Ghê quá Ọe,ghê quá ọe,3,negative,unknown,False,1
+28419,bep-kay-com-van-phong-online,1.0,Bẩn,Bẩn,Bẩn Bẩn,bẩn bẩn,2,negative,negative,False,1
+28756,buffet-poseidon-seafood-bbq-hotpot-buffet,7.0,Poseidon,🌸 Vị trí:,Poseidon 🌸 Vị trí:,poseidon  vị trí,3,neutral,unknown,False,1
+29509,linh-cari-ga-an-vat-han-quoc,5.0,Gà,Ngon ạ,Gà Ngon ạ,gà ngon ạ,3,negative,positive,False,1
+29549,linh-cari-ga-an-vat-han-quoc,5.0,Ngon,Rất,Ngon Rất,ngon rất,2,negative,positive,False,1
+29690,singresto-chao-ech-singapore-pho-hue,6.6,Cháo,🌸,Cháo 🌸,cháo,1,neutral,unknown,False,1
+30130,dai-loan-tra-quan-1102-chao-tra,7.0,Cháo,🌸 Vị trí:,Cháo 🌸 Vị trí:,cháo  vị trí,3,neutral,unknown,False,1
+30257,pho-gia-truyen,7.4,肉がジューシーなpho,ホアンキエム湖から歩いて10分。非常に混んでいて席を見つけるのが大変だが、スープをコクがあり、牛肉も美味しく大満足。,肉がジューシーなpho ホアンキエム湖から歩いて10分。非常に混んでいて席を見つけるのが大変だが、スープをコクがあり、牛肉も美味しく大満足。,肉がジューシーなpho ホアンキエム湖から歩いて10分非常に混んでいて席を見つけるのが大変だがスープをコクがあり牛肉も美味しく大満足,2,neutral,unknown,False,1
+30399,gia-quan-tinh-hoa-am-thuc-ha-noi,6.0,tốt,tốt,tốt tốt,tốt tốt,2,neutral,positive,False,16
+31928,chingu-eat-tran-cung,7.6,Gàtok Chingu,#cold#eat#withhus#gàtokChingu#takoyaki#crusher#chingueat,Gàtok Chingu #cold#eat#withhus#gàtokChingu#takoyaki#crusher#chingueat,gàtok chingu coldeatwithhusgàtokchingutakoyakicrusherchingueat,3,neutral,positive,False,1
+32078,com-suon-cay-himc-171-ha-ke-tan,10.0,Ngonn,Tuyệt vời,Ngonn Tuyệt vời,ngonn tuyệt vời,3,positive,positive,False,3
+32144,ga-ran-burger-mcdonald-s-vincom-tran-duy-hung,10.0,BOUNTY,Https://bounty3.com/#/regist/a59a2a1c7a,BOUNTY Https://bounty3.com/#/regist/a59a2a1c7a,bounty httpsbounty3comregista59a2a1c7a,2,positive,unknown,False,1
+33824,ashima-trieu-viet-vuong,10.0,Thoải mái,Ngon,Thoải mái Ngon,thoải mái ngon,3,positive,positive,False,1
+33826,ashima-trieu-viet-vuong,10.0,Ngon,Nhiệt tình,Ngon Nhiệt tình,ngon nhiệt tình,3,positive,positive,False,2
+33829,ashima-trieu-viet-vuong,10.0,Ngon,Nhiệt tình,Ngon Nhiệt tình,ngon nhiệt tình,3,positive,positive,False,2
+35722,ba-bay-dang-bun-oc-bun-cha-nem,2.0,Tệ,Ko ngon,Tệ Ko ngon,tệ ko ngon,3,negative,unknown,False,1
+35838,nuoc-ep-trai-cay-nguyen-chat-1989,5.0,Smile,Smile,Smile Smile,smile smile,2,negative,unknown,False,1
+36317,pho-tron-pho-lan-ong,6.6,Tạm,Được,Tạm Được,tạm được,2,neutral,unknown,False,1
+36432,starbucks-reserve-nha-tho,7.8,Good,Ok,Good Ok,good ok,2,neutral,positive,False,1
+36995,chim-quay-7c-nguyen-cong-tru,10.0,Ok,Ok,Ok Ok,ok ok,2,positive,positive,False,1
+36997,chim-quay-7c-nguyen-cong-tru,10.0,#anvat,Ngon ngon,#anvat Ngon ngon,anvat ngon ngon,3,positive,positive,False,1
+38333,pho-ha-noi-xua-com-vong,6.0,Tốt,Ngon,Tốt Ngon,tốt ngon,2,neutral,positive,False,8
+38508,hey-pelo-original-french-tacos-32-xuan-dieu,9.2,,,None None,none none,2,positive,unknown,False,7
+39374,starbucks-coffee-the-loop,10.0,Ngon,Quá ngon😂,Ngon Quá ngon😂,ngon quá ngon,3,positive,positive,False,2
+43044,tocotoco-tra-sua-binh-da.zl5a7j,10.0,Like,Like,Like Like,like like,2,positive,unknown,False,1
+44183,banh-mi-pho-thai-thinh,1.0,??????????,??????????...,?????????? ??????????...,,0,negative,unknown,False,4
+45681,jacksons-steakhouse,5.0,tốt,tốt,tốt tốt,tốt tốt,2,negative,positive,False,16
+45696,jacksons-steakhouse,10.0,Tốt,Rất tốt,Tốt Rất tốt,tốt rất tốt,3,positive,positive,False,5
+45740,jacksons-steakhouse,5.0,Tốt,Tuyệt vời,Tốt Tuyệt vời,tốt tuyệt vời,3,negative,positive,False,3
+45937,top-of-hanoi-lotte-hotels-resorts-hanoi,8.0,Ok tốt,Ok,Ok tốt Ok,ok tốt ok,3,positive,positive,False,1
+45945,top-of-hanoi-lotte-hotels-resorts-hanoi,5.0,Tôt,Tôt,Tôt Tôt,tôt tôt,2,negative,unknown,False,2
+45948,top-of-hanoi-lotte-hotels-resorts-hanoi,5.0,tot,ok,tot ok,tot ok,2,negative,positive,False,1
+45957,top-of-hanoi-lotte-hotels-resorts-hanoi,10.0,Ok,Tuyệt vời,Ok Tuyệt vời,ok tuyệt vời,3,positive,positive,False,1
+46115,pan-pacific-hotel-hanoi,5.0,Tốt,Nên tới,Tốt Nên tới,tốt nên tới,3,negative,positive,False,1
+46124,pan-pacific-hotel-hanoi,7.4,Tốt,Tốt,Tốt Tốt,tốt tốt,2,neutral,positive,False,16
+46128,pan-pacific-hotel-hanoi,8.6,Tot,Tot,Tot Tot,tot tot,2,positive,unknown,False,2
+46162,pan-pacific-hotel-hanoi,5.0,10đ,Rất tốt,10đ Rất tốt,10đ rất tốt,3,negative,positive,False,1
+46676,saigon-restaurant-intercontinental-hanoi-westlake,5.0,Tốt,Tốt,Tốt Tốt,tốt tốt,2,negative,positive,False,16
+46684,saigon-restaurant-intercontinental-hanoi-westlake,5.0,tốt,ok,tốt ok,tốt ok,2,negative,positive,False,2
+46687,saigon-restaurant-intercontinental-hanoi-westlake,6.0,Tốt,Tốt,Tốt Tốt,tốt tốt,2,neutral,positive,False,16
+46690,saigon-restaurant-intercontinental-hanoi-westlake,10.0,Ok,Tốt,Ok Tốt,ok tốt,2,positive,positive,False,1
+47099,isushi-buffet-nhat-ban-nguyen-chi-thanh,7.2,Isushi,🌸 Vị trí:,Isushi 🌸 Vị trí:,isushi  vị trí,3,neutral,unknown,False,1
+48869,grille6-steakhouse,10.0,Ok,G,Ok G,ok g,2,positive,positive,False,1
+50152,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50153,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50154,baara-land,5.0,Hà Nội,Tốt,Hà Nội Tốt,hà nội tốt,3,negative,positive,False,1
+50156,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50158,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50159,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50160,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50161,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50162,baara-land,6.8,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,neutral,positive,False,65
+50163,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50164,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50165,baara-land,7.4,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,neutral,positive,False,65
+50168,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50169,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50170,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50172,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50173,baara-land,7.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,neutral,positive,False,65
+50174,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50176,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50177,baara-land,5.0,Baara Land,tốt,Baara Land tốt,baara land tốt,3,negative,positive,False,65
+50178,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50179,baara-land,9.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50180,baara-land,10.0,Tốt,Tốt,Tốt Tốt,tốt tốt,2,positive,positive,False,16
+50181,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50182,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50183,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50184,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50185,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50186,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50187,baara-land,5.0,Tốt,Tốt,Tốt Tốt,tốt tốt,2,negative,positive,False,16
+50188,baara-land,5.0,Tot,Rat tot,Tot Rat tot,tot rat tot,3,negative,unknown,False,1
+50189,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50190,baara-land,5.0,Tốt,Hà nội,Tốt Hà nội,tốt hà nội,3,negative,positive,False,1
+50193,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50194,baara-land,5.0,Tốt,Tốt,Tốt Tốt,tốt tốt,2,negative,positive,False,16
+50195,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50198,baara-land,5.0,Baara Land,Tốt !,Baara Land Tốt !,baara land tốt,3,negative,positive,False,65
+50199,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50200,baara-land,5.8,Tốt,Rất tốt,Tốt Rất tốt,tốt rất tốt,3,negative,positive,False,5
+50201,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50203,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50204,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50205,baara-land,10.0,Tốt,Rất tốt,Tốt Rất tốt,tốt rất tốt,3,positive,positive,False,5
+50206,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50207,baara-land,5.0,Tốt,Tốt,Tốt Tốt,tốt tốt,2,negative,positive,False,16
+50208,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50209,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50210,baara-land,5.0,Tốt,Tốt,Tốt Tốt,tốt tốt,2,negative,positive,False,16
+50211,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50213,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50214,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50215,baara-land,4.8,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50216,baara-land,5.0,Baara Land,Tốt!,Baara Land Tốt!,baara land tốt,3,negative,positive,False,65
+50219,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50220,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50221,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50223,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50224,baara-land,5.0,Baara Land,tốt,Baara Land tốt,baara land tốt,3,negative,positive,False,65
+50226,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50227,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50228,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50230,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50231,baara-land,8.8,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50235,baara-land,5.0,tốt,tốt,tốt tốt,tốt tốt,2,negative,positive,False,16
+50236,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50237,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50239,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50241,baara-land,10.0,Baara Land,Tốt.,Baara Land Tốt.,baara land tốt,3,positive,positive,False,65
+50242,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50243,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50244,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50245,baara-land,5.0,Tot,Tot,Tot Tot,tot tot,2,negative,unknown,False,2
+50246,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50247,baara-land,5.0,Baara Land,Tốt.,Baara Land Tốt.,baara land tốt,3,negative,positive,False,65
+50248,baara-land,5.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,negative,positive,False,65
+50249,baara-land,7.6,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,neutral,positive,False,65
+50250,baara-land,10.0,Baara Land,Tốt,Baara Land Tốt,baara land tốt,3,positive,positive,False,65
+50529,lau-thai-de-vuong-food-house-thai-ha,8.2,Ngon,🥘🥘🥘,Ngon 🥘🥘🥘,ngon,1,positive,positive,False,2
+51459,paris-deli-phan-chu-trinh,7.6,^^,^^,^^ ^^,,0,neutral,unknown,False,4
+51636,skyline-hanoi-gia-ngu,10.0,Tuyệt,View đẹp,Tuyệt View đẹp,tuyệt view đẹp,3,positive,positive,False,1
+51948,nha-coffee-restaurant-vintage-house-nguyen-khac-can,9.0,👏,Đẹp ngon đắt,👏 Đẹp ngon đắt,đẹp ngon đắt,3,positive,positive,False,1
+52486,manwah-taiwanese-hotpot-ha-noi-centerpoint,10.0,Lẩu manwah,Good,Lẩu manwah Good,lẩu manwah good,3,positive,unknown,False,1
+53133,hotto-mon-ngon-tren-dia-nong-mipec-tower,7.0,Hotto,🌸 Vị trí:,Hotto 🌸 Vị trí:,hotto  vị trí,3,neutral,unknown,False,1
+53236,tonchan-mi-nhat,7.6,Tonchan,🌸 Vị trí:,Tonchan 🌸 Vị trí:,tonchan  vị trí,3,neutral,unknown,False,1
+54151,healthwich-vietnam-do-an-nhanh,7.4,HealthWich Vietnam,Ok,HealthWich Vietnam Ok,healthwich vietnam ok,3,neutral,positive,False,1
+55532,thai-pattaya-pho-nuong-lau-thai-lan,8.0,Khai vị,Ngon,Khai vị Ngon,khai vị ngon,3,positive,positive,False,1
+56282,meat-plus-korea-bbq-nguyen-thi-thap,7.2,Meat,🌸 Vị trí:,Meat 🌸 Vị trí:,meat  vị trí,3,neutral,unknown,False,1
+56836,beto-bistro-tealounge-hai-ba-trung,7.2,Bêto,🌸 Vị trí:,Bêto 🌸 Vị trí:,bêto  vị trí,3,neutral,unknown,False,1
+57507,steakout-beefsteak,7.6,Steakout,🌸 Vị trí:,Steakout 🌸 Vị trí:,steakout  vị trí,3,neutral,unknown,False,1
+58211,hanayuki-mai-hac-de,5.0,A,A,A A,a a,2,negative,unknown,False,1
+58212,hanayuki-mai-hac-de,7.2,Hanayuki,🌸 Vị trí:,Hanayuki 🌸 Vị trí:,hanayuki  vị trí,3,neutral,unknown,False,1
+61863,pizza-hoa-y-the-garden-me-tri,9.6,Ngon,Ngon,Ngon Ngon,ngon ngon,2,positive,positive,False,19
+62051,lau-sauna,7.0,Lẩu Sauna,🌸,Lẩu Sauna 🌸,lẩu sauna,2,neutral,unknown,False,1
+62378,my-tuong-vien-am-thuc-trung-hoa-hoang-dao-thuy,5.2,,,None None,none none,2,negative,unknown,False,7
+62505,zephyr-restaurant-ba-trieu,8.0,Zéphyr Restaurant -***,Check-in,Zéphyr Restaurant -*** Check-in,zéphyr restaurant  checkin,3,positive,unknown,False,1
+62672,home-vietnamese-restaurant-chau-long,6.0,风格独特,昨晚去的，发现环境不错，房子是过百年的法式建筑，室内设计别具匠心，东西也好吃，有现场要凑小提琴及吉他，很特别的一家店，值得一去^_^,风格独特 昨晚去的，发现环境不错，房子是过百年的法式建筑，室内设计别具匠心，东西也好吃，有现场要凑小提琴及吉他，很特别的一家店，值得一去^_^,风格独特 昨晚去的发现环境不错房子是过百年的法式建筑室内设计别具匠心东西也好吃有现场要凑小提琴及吉他很特别的一家店值得一去_,2,neutral,unknown,False,1
+62722,chicken-sunsoo-vietnam-ly-nam-de,9.4,Chicken Sunsoo***-***,ngon,Chicken Sunsoo***-*** ngon,chicken sunsoo ngon,3,positive,positive,False,1
+63025,seomin-nha-hang-han-quoc,1.0,Tệ :(((,Quá tệ :((,Tệ :((( Quá tệ :((,tệ  quá tệ,3,negative,negative,False,1
+63065,pizza-pompeii-s-pizza-nuong-cui,10.0,Ngon,Ngon lắm,Ngon Ngon lắm,ngon ngon lắm,3,positive,positive,False,3
+63622,oc-huong-trang-137b-le-hong-phong,10.0,Ngon,Siêu ngon,Ngon Siêu ngon,ngon siêu ngon,3,positive,positive,True,1
+64514,nem-nuong-nha-trang-xuan-thuy,5.0,Ship thiếu đồ,.,Ship thiếu đồ .,ship thiếu đồ,3,negative,unknown,False,1
+65142,co-tuyen-bun-dau-hang-cu,1.0,100k ???,???,100k ??? ???,100k,1,negative,unknown,False,1
+66697,oc-que-ho-tay,7.8,Ngon,Ngon+ đông,Ngon Ngon+ đông,ngon ngon đông,3,neutral,positive,False,1
+68384,hat-2-o-che-tao-pho,7.0,,,None None,none none,2,neutral,unknown,False,7
+68548,bun-ca-nguyen-thai-hoc,6.2,Bún Cá -***,Ádasdsasssd,Bún Cá -*** Ádasdsasssd,bún cá  ádasdsasssd,3,neutral,unknown,False,1
+71874,ga-ran-uk-ngo-goc-de,9.8,👍,😍😋👌,👍 😍😋👌,,0,positive,unknown,False,4
+73366,banh-bao-ti-hon-cho-nghia-tan,10.0,.,.,. .,,0,positive,unknown,False,4
+77940,ca-lang-viet-tri-kdt-linh-dam,8.8,Ngon,"Ngon, nhiều","Ngon Ngon, nhiều",ngon ngon nhiều,3,positive,positive,False,1
+78036,thuc-quan-quan-an-gia-dinh,10.0,Ngon,Ngon ạ,Ngon Ngon ạ,ngon ngon ạ,3,positive,positive,False,2
+78075,thuc-quan-quan-an-gia-dinh,6.0,Tốt,Ngon,Tốt Ngon,tốt ngon,2,neutral,positive,False,8
+78094,quan-op-le-duan,5.0,Ngon,tuyệt vời,Ngon tuyệt vời,ngon tuyệt vời,3,negative,positive,False,3
+78117,quan-op-le-duan,10.0,Ngon,Ngon,Ngon Ngon,ngon ngon,2,positive,positive,False,19
+78167,quan-op-le-duan,6.0,Ngon,Tốt,Ngon Tốt,ngon tốt,2,neutral,positive,False,1
+78315,pho-tuan-hao-nam,5.0,Ngon,Tuyệt vời,Ngon Tuyệt vời,ngon tuyệt vời,3,negative,positive,False,3
+78335,pho-tuan-hao-nam,6.0,Ngon quá,Tuyệt,Ngon quá Tuyệt,ngon quá tuyệt,3,neutral,positive,False,1
+78338,pho-tuan-hao-nam,6.0,Tuyệt vời,Tuyệt,Tuyệt vời Tuyệt,tuyệt vời tuyệt,3,neutral,positive,False,3
+78349,pho-tuan-hao-nam,10.0,Ngon,Ngon,Ngon Ngon,ngon ngon,2,positive,positive,False,19
+78363,pho-tuan-hao-nam,6.0,Ok,Tốt okngon,Ok Tốt okngon,ok tốt okngon,3,neutral,positive,False,1
+78421,bun-rieu-cua-an-hoa,6.0,Tuyệt vời,Tuyệt,Tuyệt vời Tuyệt,tuyệt vời tuyệt,3,neutral,positive,False,3
+78435,bun-rieu-cua-an-hoa,10.0,Ngon,Ngon,Ngon Ngon,ngon ngon,2,positive,positive,False,19
+78470,bun-rieu-cua-an-hoa,6.0,Tốt,Ngon,Tốt Ngon,tốt ngon,2,neutral,positive,False,8
+79195,fu-rong-hua-dim-sum,7.4,ホアンキエム湖側の中華,"とても綺麗で日本から友人が来たときに使えるお店。
+小籠包もまずまず。1人2000円程度","ホアンキエム湖側の中華 とても綺麗で日本から友人が来たときに使えるお店。
+小籠包もまずまず。1人2000円程度",ホアンキエム湖側の中華 とても綺麗で日本から友人が来たときに使えるお店 小籠包もまずまず1人2000円程度,3,neutral,unknown,False,1
+79936,reng-nuong-cau-vong,10.0,Ngon,Ngon ạ,Ngon Ngon ạ,ngon ngon ạ,3,positive,positive,False,2
+79946,reng-nuong-cau-vong,6.0,Tốt,Ngon,Tốt Ngon,tốt ngon,2,neutral,positive,False,8
+79967,reng-nuong-cau-vong,5.0,bđ,tuyệt vời,bđ tuyệt vời,bđ tuyệt vời,3,negative,positive,False,1
+81293,ha-thao-nem-nuong-nha-trang,9.8,,,None None,none none,2,positive,unknown,False,7
+81511,pho-ly-quoc-su-to-huu,6.0,Phở***-***,Ok,Phở***-*** Ok,phở ok,2,neutral,positive,False,1
+81513,pho-ly-quoc-su-to-huu,10.0,Phở***-***,Tuyệt vời,Phở***-*** Tuyệt vời,phở tuyệt vời,3,positive,positive,False,5
+81515,pho-ly-quoc-su-to-huu,10.0,Phở***-***,Rất ngon,Phở***-*** Rất ngon,phở rất ngon,3,positive,positive,True,2
+81518,pho-ly-quoc-su-to-huu,6.0,Tuyệt,Quá ngon,Tuyệt Quá ngon,tuyệt quá ngon,3,neutral,positive,False,1
+81520,pho-ly-quoc-su-to-huu,10.0,Ngon,Ngon lắm,Ngon Ngon lắm,ngon ngon lắm,3,positive,positive,False,3
+81522,pho-ly-quoc-su-to-huu,6.0,Phở***-***,Tuyệt vời,Phở***-*** Tuyệt vời,phở tuyệt vời,3,neutral,positive,False,5
+81528,pho-ly-quoc-su-to-huu,6.0,Tốt,Ngon,Tốt Ngon,tốt ngon,2,neutral,positive,False,8
+81531,pho-ly-quoc-su-to-huu,6.0,Phở***-***,Ngon lắm,Phở***-*** Ngon lắm,phở ngon lắm,3,neutral,positive,False,1
+81541,pho-ly-quoc-su-to-huu,5.0,Phở***-***,Tuyệt vời,Phở***-*** Tuyệt vời,phở tuyệt vời,3,negative,positive,False,5
+81542,pho-ly-quoc-su-to-huu,8.0,Phở***-***,Ngonnn ạ,Phở***-*** Ngonnn ạ,phở ngonnn ạ,3,positive,positive,False,1
+81545,pho-ly-quoc-su-to-huu,5.0,Phở***-***,Rất ngon,Phở***-*** Rất ngon,phở rất ngon,3,negative,positive,True,2
+81551,pho-ly-quoc-su-to-huu,5.0,Phở***-***,tuyệt,Phở***-*** tuyệt,phở tuyệt,2,negative,positive,False,1
+81560,pho-ly-quoc-su-to-huu,6.0,Phở***-***,măm,Phở***-*** măm,phở măm,2,neutral,unknown,False,1
+81563,pho-ly-quoc-su-to-huu,6.0,Phở***-***,Tuyệt vời,Phở***-*** Tuyệt vời,phở tuyệt vời,3,neutral,positive,False,5
+81564,pho-ly-quoc-su-to-huu,6.0,Phở***-***,Tuyệt vời,Phở***-*** Tuyệt vời,phở tuyệt vời,3,neutral,positive,False,5
+81577,pho-ly-quoc-su-to-huu,10.0,Phở***-***,Tuyet voi,Phở***-*** Tuyet voi,phở tuyet voi,3,positive,unknown,False,1
+81578,pho-ly-quoc-su-to-huu,10.0,Phở***-***,Ngon,Phở***-*** Ngon,phở ngon,2,positive,positive,False,1
+81590,pho-ly-quoc-su-to-huu,6.0,Phở***-***,Quá ngon,Phở***-*** Quá ngon,phở quá ngon,3,neutral,positive,False,1
+81609,pho-ly-quoc-su-to-huu,5.0,Tuyệt,Tuyệt,Tuyệt Tuyệt,tuyệt tuyệt,2,negative,positive,False,2
+81948,cuc-phuong-bo-nuong,5.0,❤️,Ngon,❤️ Ngon,ngon,1,negative,positive,False,2
+81955,cuc-phuong-bo-nuong,10.0,Ngon,Khá tốt,Ngon Khá tốt,ngon khá tốt,3,positive,positive,False,1
+81959,cuc-phuong-bo-nuong,10.0,10 điểm,Ngon,10 điểm Ngon,10 điểm ngon,3,positive,positive,False,3
+82359,lau-anh-hong-tran-khat-chan,6.0,Ngon,Quá ngon,Ngon Quá ngon,ngon quá ngon,3,neutral,positive,False,2
+82361,lau-anh-hong-tran-khat-chan,10.0,Rất ngon,Ngon,Rất ngon Ngon,rất ngon ngon,3,positive,positive,True,1
+82369,lau-anh-hong-tran-khat-chan,6.0,Tốt,Ngon,Tốt Ngon,tốt ngon,2,neutral,positive,False,8
+82436,lau-anh-hong-tran-khat-chan,6.0,Tuyệt,Ngon lắm,Tuyệt Ngon lắm,tuyệt ngon lắm,3,neutral,positive,False,2
+82437,lau-anh-hong-tran-khat-chan,5.8,Tuyệt,Ngon lắm,Tuyệt Ngon lắm,tuyệt ngon lắm,3,negative,positive,False,2
+82997,lau-beo-nguyen-trung-truc,5.0,Lẩu Béo -***,Ngon,Lẩu Béo -*** Ngon,lẩu béo  ngon,3,negative,positive,False,1
+83002,lau-beo-nguyen-trung-truc,6.0,Tuyệt vời,Tuyệt,Tuyệt vời Tuyệt,tuyệt vời tuyệt,3,neutral,positive,False,3
+83030,lau-beo-nguyen-trung-truc,5.0,❤️,Ngon tuyệt,❤️ Ngon tuyệt,ngon tuyệt,2,negative,positive,False,2
+83038,lau-beo-nguyen-trung-truc,10.0,10 điểm,Ngon,10 điểm Ngon,10 điểm ngon,3,positive,positive,False,3
+83039,lau-beo-nguyen-trung-truc,10.0,10 điểm,Ngon,10 điểm Ngon,10 điểm ngon,3,positive,positive,False,3
+83327,bun-suon-moc-mang-kho-vinh-ho,10.0,Ngon,Xuất sắc,Ngon Xuất sắc,ngon xuất sắc,3,positive,positive,False,1
+83376,bun-suon-moc-mang-kho-vinh-ho,10.0,Ngon,Mê tuyệt,Ngon Mê tuyệt,ngon mê tuyệt,3,positive,positive,False,1
+83384,bun-suon-moc-mang-kho-vinh-ho,10.0,Ngonn,Mê lắm,Ngonn Mê lắm,ngonn mê lắm,3,positive,positive,False,2
+83386,bun-suon-moc-mang-kho-vinh-ho,10.0,Ngon,Mê tít,Ngon Mê tít,ngon mê tít,3,positive,unknown,False,1
+83391,bun-suon-moc-mang-kho-vinh-ho,10.0,Ngonn,Mê lắm,Ngonn Mê lắm,ngonn mê lắm,3,positive,positive,False,2
+84072,xuan-food-mi-tron-indomie,10.0,Miễn bàn,Ngonn,Miễn bàn Ngonn,miễn bàn ngonn,3,positive,positive,False,1
+84078,xuan-food-mi-tron-indomie,10.0,Ngonn lắm,Tuyệt,Ngonn lắm Tuyệt,ngonn lắm tuyệt,3,positive,positive,False,1
+84079,xuan-food-mi-tron-indomie,10.0,Ngonn,Tuyệt,Ngonn Tuyệt,ngonn tuyệt,2,positive,positive,False,1
+84080,xuan-food-mi-tron-indomie,10.0,Mê lắm,Ngon,Mê lắm Ngon,mê lắm ngon,3,positive,positive,False,1
+84082,xuan-food-mi-tron-indomie,10.0,Ngon,Mê luôn,Ngon Mê luôn,ngon mê luôn,3,positive,positive,False,1
+84086,xuan-food-mi-tron-indomie,10.0,Ngon lắm,Tuyệt,Ngon lắm Tuyệt,ngon lắm tuyệt,3,positive,positive,False,1
+84088,xuan-food-mi-tron-indomie,10.0,Ngon,Mê,Ngon Mê,ngon mê,2,positive,positive,False,2
+84089,xuan-food-mi-tron-indomie,10.0,Xuất sắc,Tuyệt,Xuất sắc Tuyệt,xuất sắc tuyệt,3,positive,positive,False,1
+84091,xuan-food-mi-tron-indomie,10.0,Ngon,Tuyệt,Ngon Tuyệt,ngon tuyệt,2,positive,positive,False,2
+84093,xuan-food-mi-tron-indomie,10.0,Ngonnn,Nhức nách,Ngonnn Nhức nách,ngonnn nhức nách,3,positive,positive,False,1
+84099,xuan-food-mi-tron-indomie,10.0,Ngon,Mê lắm,Ngon Mê lắm,ngon mê lắm,3,positive,positive,False,1
+84100,xuan-food-mi-tron-indomie,10.0,Ngon,Mê,Ngon Mê,ngon mê,2,positive,positive,False,2
+84102,xuan-food-mi-tron-indomie,10.0,Ngon,Ngon,Ngon Ngon,ngon ngon,2,positive,positive,False,19
+84103,xuan-food-mi-tron-indomie,10.0,Ngon,Ngonn,Ngon Ngonn,ngon ngonn,2,positive,positive,False,1
+84104,xuan-food-mi-tron-indomie,10.0,Ngon,Ngon,Ngon Ngon,ngon ngon,2,positive,positive,False,19
+84108,xuan-food-mi-tron-indomie,10.0,Ngonm,Ngonn,Ngonm Ngonn,ngonm ngonn,2,positive,positive,False,1
+84110,xuan-food-mi-tron-indomie,10.0,Ngom,Ngon lắm,Ngom Ngon lắm,ngom ngon lắm,3,positive,positive,False,1
+84111,xuan-food-mi-tron-indomie,10.0,Quá ngon,Ngon,Quá ngon Ngon,quá ngon ngon,3,positive,positive,False,1
+84113,xuan-food-mi-tron-indomie,10.0,Ngon,Ngonnn,Ngon Ngonnn,ngon ngonnn,2,positive,positive,False,1
+84114,xuan-food-mi-tron-indomie,10.0,Ngon,Ngon,Ngon Ngon,ngon ngon,2,positive,positive,False,19
+84462,com-tam-thom,10.0,Ngon,Ngon,Ngon Ngon,ngon ngon,2,positive,positive,False,19
+84465,com-tam-thom,6.0,Tuyệt,Ngon quá,Tuyệt Ngon quá,tuyệt ngon quá,3,neutral,positive,False,1
+84478,com-tam-thom,6.0,Tốt,Ngon,Tốt Ngon,tốt ngon,2,neutral,positive,False,8
+84484,com-tam-thom,5.0,Ngon,Ngon,Ngon Ngon,ngon ngon,2,negative,positive,False,19
+84504,com-tam-thom,5.0,ndns,tuyệt vời,ndns tuyệt vời,ndns tuyệt vời,3,negative,positive,False,1
+86935,mon-hue-nguyen-chi-thanh,7.4,Món Huế -***,Like,Món Huế -*** Like,món huế  like,3,neutral,unknown,False,1
+87978,simisi-korean-foods-nguyen-trai,2.6,Simisi - Korean Foods -***,:)),Simisi - Korean Foods -*** :)),simisi  korean foods,3,negative,unknown,False,1
+89889,ana-grandma-pizza-bat-khoi,9.2,❤️,Very good ❤️,❤️ Very good ❤️,very good,2,positive,unknown,False,1
+91871,hai-quay-an-vat-truyen-thong-nem-do-uong-cac-loai-bach-khoa,9.0,Ngon,Ngon,Ngon Ngon,ngon ngon,2,positive,positive,False,19
+93631,tu-chef-buffet-lau-bo-my,2.8,,,None None,none none,2,negative,unknown,False,7
+96811,xabi-my-tron-an-vat-nem-nuong,9.4,Ngon,Ngon,Ngon Ngon,ngon ngon,2,positive,positive,False,19
+100164,bun-cha-19h1-xuan-thuy,10.0,FREESHIP,Freeship,FREESHIP Freeship,freeship freeship,2,positive,unknown,False,1
+100165,bun-cha-19h1-xuan-thuy,10.0,Ngon!,Ngon!,Ngon! Ngon!,ngon ngon,2,positive,positive,False,19
+100166,bun-cha-19h1-xuan-thuy,10.0,Tuyệt!,Tuyệt!,Tuyệt! Tuyệt!,tuyệt tuyệt,2,positive,positive,False,2
+100168,bun-cha-19h1-xuan-thuy,10.0,Gôd!,Good!,Gôd! Good!,gôd good,2,positive,unknown,False,1
+100170,bun-cha-19h1-xuan-thuy,10.0,Phê,Tuyệt,Phê Tuyệt,phê tuyệt,2,positive,positive,False,1
+100174,bun-cha-19h1-xuan-thuy,10.0,ngon,ngon,ngon ngon,ngon ngon,2,positive,positive,False,19
+100175,bun-cha-19h1-xuan-thuy,10.0,Ngon,Ngon,Ngon Ngon,ngon ngon,2,positive,positive,False,19
+100176,bun-cha-19h1-xuan-thuy,10.0,Good!,Like,Good! Like,good like,2,positive,unknown,False,1
+100183,bun-cha-19h1-xuan-thuy,10.0,ngon,ngon,ngon ngon,ngon ngon,2,positive,positive,False,19
+100184,bun-cha-19h1-xuan-thuy,10.0,quán ngon,ok,quán ngon ok,quán ngon ok,3,positive,positive,False,1
+100189,bun-cha-19h1-xuan-thuy,7.0,Wonderfull!!,Good mod !,Wonderfull!! Good mod !,wonderfull good mod,3,neutral,unknown,False,1
+100962,soya-garden,10.0,Đc,Đc,Đc Đc,đc đc,2,positive,unknown,False,1
+101995,sseoni-cream-tran-dang-ninh,8.4,Lẩu kem,Ngon ^^,Lẩu kem Ngon ^^,lẩu kem ngon,3,positive,positive,False,1
+106475,royaltea-luong-yen,10.0,10d,Very good,10d Very good,10d very good,3,positive,unknown,False,1
+106482,royaltea-luong-yen,10.0,10d ạ,Good,10d ạ Good,10d ạ good,3,positive,unknown,False,1
+106814,artisee-cafe-deli-lotte-center,10.0,Đc,Tốt,Đc Tốt,đc tốt,2,positive,positive,False,2
+108226,royaltea-tra-sua-hong-kong-ngo-190-lo-duc,7.2,,,None None,none none,2,neutral,unknown,False,7
+114475,trang-juice-sinh-to-nuoc-ep,8.2,Cóc ép,😍😍😍,Cóc ép 😍😍😍,cóc ép,2,positive,unknown,False,1
+115210,ohgee-icecream-vincom-center-nguyen-chi-thanh,4.8,Ge,G,Ge G,ge g,2,negative,unknown,False,1
+118093,lela-coffee,10.0,Đc,Tốt,Đc Tốt,đc tốt,2,positive,positive,False,2
+118626,pharaoh-s-bar-upper-lotte-hotels-resorts-hanoi-lotte-center,7.2,Tốt,Tốt,Tốt Tốt,tốt tốt,2,neutral,positive,False,16
+118638,pharaoh-s-bar-upper-lotte-hotels-resorts-hanoi-lotte-center,5.0,Tốt,Rất tuyệt,Tốt Rất tuyệt,tốt rất tuyệt,3,negative,positive,False,1
+118642,pharaoh-s-bar-upper-lotte-hotels-resorts-hanoi-lotte-center,6.0,Tuyet,Tuyet,Tuyet Tuyet,tuyet tuyet,2,neutral,unknown,False,1
+118644,pharaoh-s-bar-upper-lotte-hotels-resorts-hanoi-lotte-center,9.0,Tốt,Tốt,Tốt Tốt,tốt tốt,2,positive,positive,False,16
+118769,the-leprechaun-public-house,5.0,tốt,tốt,tốt tốt,tốt tốt,2,negative,positive,False,16
+118790,the-leprechaun-public-house,10.0,Tốt,Rất tốt,Tốt Rất tốt,tốt rất tốt,3,positive,positive,False,5
+119884,banh-su-kem-singapore-chewy-junior-hoang-cau,5.0,Ngon,Ngon,Ngon Ngon,ngon ngon,2,negative,positive,False,19
+120125,bcrepes-banh-crepe,5.0,K,K,K K,k k,2,negative,unknown,False,1
+120426,doraemon-tofu-factory-aeon-mall-long-bien,6.8,Doraemon,🌸 Vị trí:,Doraemon 🌸 Vị trí:,doraemon  vị trí,3,neutral,unknown,False,1
+121963,banh-co-chau-ton-duc-thang,10.0,(y),Ngon,(y) Ngon,y ngon,2,positive,positive,False,1
+122289,banh-ngo-delimanjoo-aeon-mall-long-bien,7.0,Bánh Ngô Delimanjoo,.,Bánh Ngô Delimanjoo .,bánh ngô delimanjoo,3,neutral,unknown,False,1
+122421,mo-banh-uot-ban-me-banh-uot-long-ga-da-lat-nguyen-khang,7.6,Tạm đc,Đc,Tạm đc Đc,tạm đc đc,3,neutral,unknown,False,1
+122586,maison-vie-nha-hang-kieu-phap,5.0,Tốt,Tuyệt vời,Tốt Tuyệt vời,tốt tuyệt vời,3,negative,positive,False,3
+122625,maison-vie-nha-hang-kieu-phap,5.0,Tốt,Tuyệt vời,Tốt Tuyệt vời,tốt tuyệt vời,3,negative,positive,False,3
+122654,maison-vie-nha-hang-kieu-phap,5.0,tốt,ok,tốt ok,tốt ok,2,negative,positive,False,2
+122716,rico-south-american-steakhouse,7.6,Rico,🌸 Vị trí:,Rico 🌸 Vị trí:,rico  vị trí,3,neutral,unknown,False,1
+122755,intercontinental-hanoi-landmark72,5.0,Tốt,Tốt,Tốt Tốt,tốt tốt,2,negative,positive,False,16
+122757,intercontinental-hanoi-landmark72,5.0,Tốt,Tốt,Tốt Tốt,tốt tốt,2,negative,positive,False,16
+122791,el-vino-wine-restaurant,10.0,rv,soooo niceee,rv soooo niceee,rv soooo niceee,3,positive,unknown,False,1
+122830,le-beaulieu-restaurant-sofitel-legend-metropole-hanoi,5.0,Tốt,Good,Tốt Good,tốt good,2,negative,positive,False,1

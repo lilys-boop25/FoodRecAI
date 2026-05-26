@@ -1,0 +1,23 @@
+[
+    {
+    "restaurant_id": "tra-sua-172-trieu-viet-vuong",
+    "rating": 8.4,
+    "title": "Quán tà tưa huyền thoại trên phố Triệu Việt Vương",
+    "content": "Uống trà sữa ở đây từ lúc mình cấp 2 và đến bây giờ mình mới quay lại. Trà sữa truyền thống vẫn ngonn, vị rất giống trà sữa thời trước kia, trước cả lúc các quán trà sữa mọc lên ầm ầm. Trân châu ổn nhưng không quá ấn tượng. Một cốc be bé kia là 20K, mình thấy khá ổn đó. Thấy mọi người cũng mua sinh tố, sữa chua đánh đá nhiều lắmm, mình cũng nghe review ngon nên mọi người cũng nên thử ha.\nUống trà sữa rồi ăn một chiếc bánh mỳ thập cẩm nóng giòn 25K là quá ổn cho 1 bữa sáng thịnh soạn hoặc 1 bữa trưa bận rộn. Bánh mỳ thơm, thích nhất độ giònn và nóng hổi của bánh. Thấy mọi người cũng ăn cả bánh mỳ chảo nữa nhưng mình thấy chả có sốt mấy nên không gọi.\nNói chung là ổn nhé. Quán này còn bát cả chân gà, cánh gà rang muối or chiên mắm nữaa, thỉnh thoảng mình có mua về nhà rồi mọi người khen lắmm, ăn không thừa miếng nào.",
+    "rating_label": "positive"
+    },
+    {
+        "restaurant_id": "tra-sua-172-trieu-viet-vuong",
+        "rating": 7.6,
+        "title": "Trà Sữa 172 - Triệu Việt Vương",
+        "content": "Trà sữa 172 này cũng thuộc những quán trà sữa lâu năm của Hà Nội. Lần nào lên phố Triệu Việt Vương này mình cũng phải tạt qua làm 1 ly trà sữa\n\nGiá trà sữa ở đây chỉ giao động khoảng trên dưới 20k thôi. Mà chất lượng thì thực sự ngon, uống ở đây như được trở về vị tuổi thơ ấy. Ở đây còn có cả món cánh gà rang muối và chân gà rang muối cũng rất ngon nữa.\n\nKhông gian quán cũng chả lộng lẫy, xịn sò gì, chỉ có vài chiếc ghế vỉa hè thôi nhưng cũng đông khách lắm, nhất là lúc chiều chiều.\n\nCô bán hàng nhiệt tình, vui vẻ lắm.",
+        "rating_label": "neutral"
+    },
+    {
+        "restaurant_id": "tra-sua-172-trieu-viet-vuong",
+        "rating": 5.6,
+        "title": "Trân châu hơi cứng và trà sữa quá ngọt",
+        "content": "Mình đã ghi chú trà sữa ít ngọt rồi mà vẫn rất ngọt :(",
+        "rating_label": "negative"
+    }
+]
