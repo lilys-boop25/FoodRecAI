@@ -91,46 +91,4 @@ def main():
     print("="*54 + "\n")
 
 if __name__ == "__main__":
-    main()        "c_param": c_param,
-        "max_features": max_features,
-        "version": version_name
-    }
-    
-    return pipeline, stats
-
-
-def main():
-    # Set up argument parser for command-line execution
-    parser = argparse.ArgumentParser(description="Mô-đun huấn luyện SVM nâng cao.")
-    parser.add_argument("--data", default="reviews_clean.jsonl")
-    parser.add_argument("--c", type=float, default=1.0)
-    parser.add_argument("--max-features", type=int, default=5000)
-    parser.add_argument("--test-size", type=float, default=0.2)
-    parser.add_argument("--random-state", type=int, default=42)
-    parser.add_argument("--version", default="C1.0")
-    args = parser.parse_args()
-
-    # Train the model and get stats for reporting
-    _, stats = train_model(
-        data_path=args.data, 
-        test_size=args.test_size, 
-        random_state=args.random_state, 
-        c_param=args.c, 
-        max_features=args.max_features, 
-        version_name=args.version
-    )
-
-    # Print the training report
-    print("\n" + "="*20 + " TRAIN REPORT " + "="*20)
-    print(f"Data file:     {stats['data_path']}")
-    print(f"Total used:    {stats['total_used']} rows")
-    print(f"Train size:    {stats['train_size']} rows")
-    print(f"Test size:     {stats['test_size']} rows")
-    print(f"SVM Param C:   {stats['c_param']}")
-    print(f"TFIDF Max:     {stats['max_features']} features")
-    print(f"Saved Version: {stats['version']}")
-    print(f"Model Path:    {stats['model_path']}")
-    print("="*54 + "\n")
-
-if __name__ == "__main__":
     main()
