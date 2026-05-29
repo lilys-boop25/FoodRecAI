@@ -1,0 +1,35 @@
+===== DATA SUMMARY =====
+Total dataset: 107521 rows
+├── Train size: 86015 rows
+├── Valid size: 10751 rows
+└── Test size:  10755 rows
+Tested Model File: svm_pipeline_C0.1.pkl
+
+===== METRICS (TEST SET) =====
+accuracy: 0.7410
+balanced_accuracy: 0.7356
+macro_precision: 0.7677
+macro_recall: 0.7356
+macro_f1: 0.7494
+weighted_precision: 0.7445
+weighted_recall: 0.7410
+weighted_f1: 0.7413
+
+===== CLASSIFICATION REPORT =====
+              precision    recall  f1-score   support
+
+    negative       0.84      0.72      0.78      1375
+     neutral       0.71      0.77      0.74      4813
+    positive       0.76      0.72      0.74      4567
+
+    accuracy                           0.74     10755
+   macro avg       0.77      0.74      0.75     10755
+weighted avg       0.74      0.74      0.74     10755
+
+===== CONFUSION MATRIX =====
+[[ 990  286   99]
+ [ 147 3703  963]
+ [  40 1251 3276]]
+
+============================================================
+
