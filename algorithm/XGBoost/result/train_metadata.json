@@ -1,0 +1,65 @@
+{
+  "model": "TF-IDF + XGBoost",
+  "label_to_id": {
+    "negative": 0,
+    "neutral": 1,
+    "positive": 2
+  },
+  "id_to_label": {
+    "0": "negative",
+    "1": "neutral",
+    "2": "positive"
+  },
+  "class_names": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "data_stats": {
+    "data_dir": "/Users/trannguyenmyanh/Documents/FoodRecAI/data/data_for_sentiment_analysis",
+    "train_path": "/Users/trannguyenmyanh/Documents/FoodRecAI/data/data_for_sentiment_analysis/train.jsonl",
+    "valid_path": "/Users/trannguyenmyanh/Documents/FoodRecAI/data/data_for_sentiment_analysis/valid.jsonl",
+    "test_path": "/Users/trannguyenmyanh/Documents/FoodRecAI/data/data_for_sentiment_analysis/test.jsonl",
+    "train_size": 86015,
+    "valid_size": 10751,
+    "test_size": 10755,
+    "total_used": 107521,
+    "skipped_invalid": 0
+  },
+  "train_label_distribution": {
+    "neutral": 38498,
+    "positive": 36529,
+    "negative": 10988
+  },
+  "valid_label_distribution": {
+    "positive": 4566,
+    "neutral": 4812,
+    "negative": 1373
+  },
+  "test_label_distribution": {
+    "positive": 4567,
+    "neutral": 4813,
+    "negative": 1375
+  },
+  "params": {
+    "data_dir": "data/data_for_sentiment_analysis",
+    "output_dir": "outputs/xgboost",
+    "max_features": 50000,
+    "ngram_max": 2,
+    "min_df": 2,
+    "n_estimators": 300,
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "random_state": 42
+  },
+  "valid_metrics": {
+    "accuracy": 0.745326016184541,
+    "macro_f1": 0.7495513886728743,
+    "weighted_f1": 0.7453576105515253
+  },
+  "test_metrics": {
+    "accuracy": 0.7374244537424454,
+    "macro_f1": 0.742534075789164,
+    "weighted_f1": 0.7374528364664211
+  }
+}
