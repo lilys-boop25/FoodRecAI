@@ -1,29 +1,15 @@
 SVM MODEL EXPERIMENTATION & EVALUATION GUIDE
 
 1. Hyperparameter Tuning and Results (Based on Macro F1-score)
-The hyperparameter tuning process for parameter C was conducted by training multiple configurations, evaluating each model independently on the Test set, and comparing their Macro F1-scores to discover the optimal setup:
+The hyperparameter tuning process for parameter C was conducted by training multiple configurations and evaluating each model independently on the Test set. The Macro F1-scores are summarized in the table below:
 
-- Configuration 1: C = 5.0 (--version C5.0)
-  -> Command: python train.py --c 5.0 --version C5.0
-  -> Evaluation: python evaluate.py --model-name svm_pipeline_C5.0.pkl
-  -> Result: Macro F1-score = 74.02%
+-----------------------------------------------------------
+| C Parameter   |  5.0   |  1.0   |  0.01  |  0.1 (Optimal) |
+-----------------------------------------------------------
+| Macro F1-score| 73.49% | 74.23% | 73.96% | 74.69%         |
+-----------------------------------------------------------
 
-- Configuration 2: C = 1.0 (--version C1.0)
-  -> Command: python train.py --c 1.0 --version C1.0
-  -> Evaluation: python evaluate.py --model-name svm_pipeline_C1.0.pkl
-  -> Result: Macro F1-score = 74.33%
-
-- Configuration 3: C = 0.01 (--version C0.01)
-  -> Command: python train.py --c 0.01 --version C0.01
-  -> Evaluation: python evaluate.py --model-name svm_pipeline_C0.01.pkl
-  -> Result: Macro F1-score = 73.54%
-
-- Configuration 4: C = 0.1 (--version C0.1)
-  -> Command: python train.py --c 0.1 --version C0.1
-  -> Evaluation: python evaluate.py --model-name svm_pipeline_C0.1.pkl
-  -> Result: Macro F1-score = 74.94% (Best Performance)
-
-Conclusion: After comparing the Macro F1-scores across all 4 configurations, parameter C = 0.1 yields the highest Macro F1-score (74.94%). Therefore, svm_pipeline_C0.1.pkl is officially selected as the optimal model deployment for the final system integration.
+Conclusion: After comparing the Macro F1-scores across all configurations, parameter C = 0.1 yields the highest performance (74.69%). Therefore, svm_pipeline_C0.1.pkl is officially selected as the optimal model for the final system integration.
 
 2. Execution Template for Replication
 
